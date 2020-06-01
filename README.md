@@ -7,6 +7,7 @@ SparkAR Hub was used for creating the filter
 # Copyrights
 
 Created by: Nikhil Wali
+
 Developed by: Nikhil Wali
 
-Note: condition applies.
+**Note**: condition applies.
